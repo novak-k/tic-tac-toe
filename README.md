@@ -2,7 +2,7 @@
 
 This project is a simple tic-tac-toe game built using React.js and JS. Players take turns marking spaces in a 3x3 grid, aiming to get three of their symbols in a row, column, or diagonal.
 
-## (Demo Link)[https://novak-k.github.io/tic-tac-toe/]
+## [Demo Link](https://novak-k.github.io/tic-tac-toe/)
 
 ## How to Play
 
