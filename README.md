@@ -40,6 +40,6 @@ To run the game locally:
 
 3. Install dependencies by running `npm install`.
 
-4. Start the development server by running `npm start`.
+4. Start the development server by running `npm run dev`.
 
 5. Open your web browser and go to `http://localhost:3000` to play the game.
